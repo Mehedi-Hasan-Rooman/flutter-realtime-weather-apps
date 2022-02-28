@@ -1,5 +1,5 @@
 # flutter_Realtime_Weather_project
 See Demo Preview
-![1](https://user-images.githubusercontent.com/80380569/155932857-0eb1c202-6def-4b28-90ed-4f6dbe0c4339.gif)
-![2](https://user-images.githubusercontent.com/80380569/155933364-eae33eff-f0c4-4baa-b74d-ad5d6ed55638.gif)
-
+OpenWeatherMap: Сurrent weather and forecast API Based 
+![1](https://user-images.githubusercontent.com/80380569/155934352-6693bd7c-a967-43f2-bbf0-fda09a1d14cb.gif)
+![2](https://user-images.githubusercontent.com/80380569/155934480-6bf48e1b-42a3-4b53-9c8d-95871224ae98.gif)
